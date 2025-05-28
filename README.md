@@ -1,4 +1,16 @@
-# Anthropic Cookbook
+# SEAL-TEAM-Six-Anthropic-Cookbook
+
+**SEAL Team Six Edition** - Elite Development Operations
+
+This is a fork of the [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook), enhanced with SEAL Team Six principles for elite software development practices.
+
+## Fork Information
+
+- **Original Repository**: [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+- **Forked by**: [softengineware](https://github.com/softengineware)
+- **Enhanced with**: SEAL Team Six development principles - precision, discipline, and operational excellence
+
+## Original Description
 
 The Anthropic Cookbook provides code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects.
 

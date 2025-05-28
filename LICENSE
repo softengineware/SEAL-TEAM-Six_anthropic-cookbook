@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2023 Anthropic
+Original work Copyright (c) 2023 Anthropic
+Modified work Copyright (c) 2025 SoftEngineware (SEAL Team Six Edition)
+
+This is a fork of the Anthropic Cookbook, enhanced with SEAL Team Six principles.
+Original repository: https://github.com/anthropics/anthropic-cookbook
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
