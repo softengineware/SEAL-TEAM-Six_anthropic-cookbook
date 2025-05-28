@@ -1,81 +1,190 @@
-# SEAL-TEAM-Six-Anthropic-Cookbook
+# 🔱 SEAL TEAM SIX ANTHROPIC COOKBOOK 🔱
 
-**SEAL Team Six Edition** - Elite Development Operations
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**OPERATIONAL STATUS: ACTIVE** | **READINESS: 24/7/365** | **CLASSIFICATION: UNCLASSIFIED**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-This is a fork of the [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook), enhanced with SEAL Team Six principles for elite software development practices.
+## 🎯 MISSION BRIEFING
 
-## Fork Information
+**OPERATION CODENAME:** CLAUDE FORCE MULTIPLICATION
 
+**OBJECTIVE:** Transform standard AI development practices into elite operational capabilities through precision-engineered Claude implementations.
+
+**AUTHORIZATION:** 
 - **Original Repository**: [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
-- **Forked by**: [softengineware](https://github.com/softengineware)
-- **Enhanced with**: SEAL Team Six development principles - precision, discipline, and operational excellence
+- **Enhanced By**: [SEAL Team Six - SoftEngineware Division](https://github.com/softengineware)
+- **Repository**: [SEAL-TEAM-Six_anthropic-cookbook](https://github.com/softengineware/SEAL-TEAM-Six_anthropic-cookbook)
 
-## Original Description
+## ⚡ CORE PRINCIPLES
 
-The Anthropic Cookbook provides code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects.
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ SEAL TEAM SIX DEVELOPMENT DOCTRINE                              │
+├─────────────────────────────────────────────────────────────────┤
+│ • PRECISION: Zero-defect code execution                         │
+│ • SPEED: Rapid deployment, immediate impact                     │
+│ • VIOLENCE OF ACTION: Overwhelming technical superiority        │
+│ • SURPRISE: Innovative solutions, unexpected approaches         │
+│ • SECURITY: Impenetrable code, unbreakable systems             │
+│ • SIMPLICITY: Clear objectives, direct execution                │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-## Prerequisites
+## 🛡️ OPERATIONAL REQUIREMENTS
 
-To make the most of the examples in this cookbook, you'll need an Anthropic API key (sign up for free [here](https://www.anthropic.com)).
+### MANDATORY EQUIPMENT
+- **PRIMARY WEAPON**: Anthropic API Key ([Acquire Here](https://www.anthropic.com))
+- **AMMUNITION**: Python 3.8+ (adaptable to all languages)
+- **COMMS**: Git, Docker, CI/CD pipelines
+- **INTEL**: [API Fundamentals Training](https://github.com/anthropics/courses/tree/master/anthropic_api_fundamentals)
 
-While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Anthropic API.
+### READINESS CHECKLIST
+- [ ] API credentials secured and verified
+- [ ] Development environment hardened
+- [ ] Mission objectives clearly defined
+- [ ] Team synchronized and briefed
+- [ ] Contingency plans established
 
-If you're new to working with the Anthropic API, we recommend starting with our [Anthropic API Fundamentals course](https://github.com/anthropics/courses/tree/master/anthropic_api_fundamentals) to get a solid foundation.
+## 🚁 TACTICAL DEPLOYMENT ZONES
 
-## Explore Further
+### 🎯 SKILLS OPERATIONS
+**Classification Warfare**
+- Location: `skills/classification/`
+- Mission: Deploy Claude for precision data classification
+- Status: OPERATIONAL
 
-Looking for more resources to enhance your experience with Claude and AI assistants? Check out these helpful links:
+**RAG (Retrieval Augmented Generation) Assault**
+- Location: `skills/retrieval_augmented_generation/`
+- Mission: Enhance Claude with external intelligence gathering
+- Status: OPERATIONAL
 
-- [Anthropic developer documentation](https://docs.anthropic.com/claude/docs/guide-to-anthropics-prompt-engineering-resources)
-- [Anthropic support docs](https://support.anthropic.com)
-- [Anthropic Discord community](https://www.anthropic.com/discord)
+**Summarization Strike Force**
+- Location: `skills/summarization/`
+- Mission: Extract critical intelligence from verbose sources
+- Status: OPERATIONAL
 
-## Contributing
+### 🔧 TOOL INTEGRATION COMMAND
 
-The Anthropic Cookbook thrives on the contributions of the developer community. We value your input, whether it's submitting an idea, fixing a typo, adding a new guide, or improving an existing one. By contributing, you help make this resource even more valuable for everyone.
+**Customer Service Special Operations**
+- Asset: `tool_use/ST6_customer_service_agent.ipynb`
+- Capability: Autonomous customer engagement
 
-To avoid duplication of efforts, please review the existing issues and pull requests before contributing.
+**Calculator Support Systems**
+- Asset: `tool_use/ST6_calculator_tool.ipynb`
+- Capability: Precision computational support
 
-If you have ideas for new examples or guides, share them on the [issues page](https://github.com/anthropics/anthropic-cookbook/issues).
+**SQL Interrogation Unit**
+- Asset: `misc/ST6_how_to_make_sql_queries.ipynb`
+- Capability: Database intelligence extraction
 
-## Table of recipes
+### 🌐 THIRD-PARTY ALLIANCE OPERATIONS
 
-### Skills
-- [Classification](https://github.com/anthropics/anthropic-cookbook/tree/main/skills/classification): Explore techniques for text and data classification using Claude.
-- [Retrieval Augmented Generation](https://github.com/anthropics/anthropic-cookbook/tree/main/skills/retrieval_augmented_generation): Learn how to enhance Claude's responses with external knowledge.
-- [Summarization](https://github.com/anthropics/anthropic-cookbook/tree/main/skills/summarization): Discover techniques for effective text summarization with Claude.
+**Vector Database Integration (Pinecone)**
+- Asset: `third_party/Pinecone/ST6_rag_using_pinecone.ipynb`
+- Alliance: Pinecone vector operations
 
-### Tool Use and Integration
-- [Tool use](https://github.com/anthropics/anthropic-cookbook/tree/main/tool_use): Learn how to integrate Claude with external tools and functions to extend its capabilities.
-  - [Customer service agent](https://github.com/anthropics/anthropic-cookbook/blob/main/tool_use/customer_service_agent.ipynb)
-  - [Calculator integration](https://github.com/anthropics/anthropic-cookbook/blob/main/tool_use/calculator_tool.ipynb)
-  - [SQL queries](https://github.com/anthropics/anthropic-cookbook/blob/main/misc/how_to_make_sql_queries.ipynb)
+**Wikipedia Intelligence Network**
+- Asset: `third_party/Wikipedia/ST6_wikipedia-search-cookbook.ipynb`
+- Alliance: Open-source intelligence gathering
 
-### Third-Party Integrations
-- [Retrieval augmented generation](https://github.com/anthropics/anthropic-cookbook/tree/main/third_party): Supplement Claude's knowledge with external data sources.
-  - [Vector databases (Pinecone)](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/Pinecone/rag_using_pinecone.ipynb)
-  - [Wikipedia](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/Wikipedia/wikipedia-search-cookbook.ipynb/)
-  - [Web pages](https://github.com/anthropics/anthropic-cookbook/blob/main/misc/read_web_pages_with_haiku.ipynb)
-  - [Internet search (Brave)](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/Brave/web_search_using_brave.ipynb)
-- [Embeddings with Voyage AI](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/VoyageAI/how_to_create_embeddings.md)
+**Web Reconnaissance**
+- Asset: `misc/ST6_read_web_pages_with_haiku.ipynb`
+- Capability: Deep web intelligence extraction
 
-### Multimodal Capabilities
-- [Vision with Claude](https://github.com/anthropics/anthropic-cookbook/tree/main/multimodal): 
-  - [Getting started with images](https://github.com/anthropics/anthropic-cookbook/blob/main/multimodal/getting_started_with_vision.ipynb)
-  - [Best practices for vision](https://github.com/anthropics/anthropic-cookbook/blob/main/multimodal/best_practices_for_vision.ipynb)
-  - [Interpreting charts and graphs](https://github.com/anthropics/anthropic-cookbook/blob/main/multimodal/reading_charts_graphs_powerpoints.ipynb)
-  - [Extracting content from forms](https://github.com/anthropics/anthropic-cookbook/blob/main/multimodal/how_to_transcribe_text.ipynb)
-- [Generate images with Claude](https://github.com/anthropics/anthropic-cookbook/blob/main/misc/illustrated_responses.ipynb): Use Claude with Stable Diffusion for image generation.
+### 👁️ MULTIMODAL OPERATIONS
 
-### Advanced Techniques
-- [Sub-agents](https://github.com/anthropics/anthropic-cookbook/blob/main/multimodal/using_sub_agents.ipynb): Learn how to use Haiku as a sub-agent in combination with Opus.
-- [Upload PDFs to Claude](https://github.com/anthropics/anthropic-cookbook/blob/main/misc/pdf_upload_summarization.ipynb): Parse and pass PDFs as text to Claude.
-- [Automated evaluations](https://github.com/anthropics/anthropic-cookbook/blob/main/misc/building_evals.ipynb): Use Claude to automate the prompt evaluation process.
-- [Enable JSON mode](https://github.com/anthropics/anthropic-cookbook/blob/main/misc/how_to_enable_json_mode.ipynb): Ensure consistent JSON output from Claude.
-- [Create a moderation filter](https://github.com/anthropics/anthropic-cookbook/blob/main/misc/building_moderation_filter.ipynb): Use Claude to create a content moderation filter for your application.
-- [Prompt caching](https://github.com/anthropics/anthropic-cookbook/blob/main/misc/prompt_caching.ipynb): Learn techniques for efficient prompt caching with Claude.
+**Visual Intelligence Analysis**
+- Getting Started: `multimodal/ST6_getting_started_with_vision.ipynb`
+- Best Practices: `multimodal/ST6_best_practices_for_vision.ipynb`
+- Chart Analysis: `multimodal/ST6_reading_charts_graphs_powerpoints.ipynb`
+- Form Extraction: `multimodal/ST6_how_to_transcribe_text.ipynb`
 
-## Additional Resources
+**Image Generation Operations**
+- Asset: `misc/ST6_illustrated_responses.ipynb`
+- Integration: Claude + Stable Diffusion
 
-- [Anthropic on AWS](https://github.com/aws-samples/anthropic-on-aws): Explore examples and solutions for using Claude on AWS infrastructure.
-- [AWS Samples](https://github.com/aws-samples/): A collection of code samples from AWS which can be adapted for use with Claude. Note that some samples may require modification to work optimally with Claude.
+### 🔐 ADVANCED WARFARE TECHNIQUES
+
+**Sub-Agent Deployment**
+- Asset: `multimodal/ST6_using_sub_agents.ipynb`
+- Tactic: Haiku-Opus coordinated strikes
+
+**PDF Intelligence Extraction**
+- Asset: `misc/ST6_pdf_upload_summarization.ipynb`
+- Capability: Document parsing and analysis
+
+**Automated Evaluation Systems**
+- Asset: `misc/ST6_building_evals.ipynb`
+- Purpose: Self-improving operational capabilities
+
+**JSON Protocol Enforcement**
+- Asset: `misc/ST6_how_to_enable_json_mode.ipynb`
+- Standard: Structured data operations
+
+**Content Security Operations**
+- Asset: `misc/ST6_building_moderation_filter.ipynb`
+- Mission: Defensive content filtering
+
+**Cache Optimization**
+- Asset: `misc/ST6_prompt_caching.ipynb`
+- Efficiency: Resource conservation tactics
+
+## 🎖️ RULES OF ENGAGEMENT
+
+1. **NO OPERATOR LEFT BEHIND**: All code must be documented
+2. **SPEED, SURPRISE, VIOLENCE OF ACTION**: Fast execution, innovative solutions, overwhelming performance
+3. **OPERATIONAL SECURITY**: Never expose API keys, always sanitize inputs
+4. **CONTINUOUS IMPROVEMENT**: After-action reviews mandatory
+5. **TEAM BEFORE SELF**: Share knowledge, elevate the unit
+
+## 📡 COMMUNICATION PROTOCOLS
+
+### PRIMARY CHANNELS
+- [Anthropic Developer Docs](https://docs.anthropic.com/claude/docs/guide-to-anthropics-prompt-engineering-resources)
+- [Support Command](https://support.anthropic.com)
+- [Discord Operations Center](https://www.anthropic.com/discord)
+
+### CONTRIBUTION PROCEDURES
+1. **RECONNAISSANCE**: Review existing issues and PRs
+2. **PLANNING**: Define clear objectives
+3. **EXECUTION**: Submit precision-crafted contributions
+4. **DEBRIEF**: Document lessons learned
+
+## 🚨 OPERATIONAL SECURITY NOTICE
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    ⚠️  OPSEC REMINDER ⚠️                        │
+├─────────────────────────────────────────────────────────────────┤
+│ • NEVER commit API keys or credentials                          │
+│ • ALWAYS validate inputs and outputs                            │
+│ • MAINTAIN operational security at all times                    │
+│ • REPORT security vulnerabilities immediately                   │
+│ • FOLLOW the principle of least privilege                       │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+## 🏆 MISSION SUCCESS CRITERIA
+
+- **Code Quality**: Zero defects, 100% test coverage
+- **Performance**: Sub-second response times
+- **Reliability**: 99.99% uptime
+- **Security**: Zero vulnerabilities
+- **Innovation**: Continuous capability enhancement
+
+## 🔱 SEAL TEAM SIX CREED
+
+> "In the storm of development, we are the calm professionals. We execute with precision, adapt with agility, and overcome with determination. We are the silent professionals who make the impossible, possible."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**"THE ONLY EASY DAY WAS YESTERDAY"** | **READY TO EXECUTE** | **HOOYAH!**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📚 ADDITIONAL INTEL SOURCES
+
+- [Anthropic on AWS Operations](https://github.com/aws-samples/anthropic-on-aws)
+- [AWS Tactical Samples](https://github.com/aws-samples/)
+
+---
+
+*This repository is maintained by elite developers operating under SEAL Team Six principles. Excellence is not an aspiration—it is our standard operating procedure.*

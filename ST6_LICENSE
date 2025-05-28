@@ -1,10 +1,27 @@
-MIT License
+MIT License - SEAL Team Six Enhanced Edition
 
 Original work Copyright (c) 2023 Anthropic
 Modified work Copyright (c) 2025 SoftEngineware (SEAL Team Six Edition)
 
-This is a fork of the Anthropic Cookbook, enhanced with SEAL Team Six principles.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SEAL TEAM SIX OPERATIONAL ENHANCEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This is a fork of the Anthropic Cookbook, enhanced with SEAL Team Six principles
+for elite software development operations.
+
 Original repository: https://github.com/anthropics/anthropic-cookbook
+Enhanced repository: https://github.com/softengineware/SEAL-TEAM-Six_anthropic-cookbook
+
+MISSION STATEMENT:
+Transform standard development practices into elite operational excellence through:
+• Precision execution and zero-defect mindset
+• Continuous operational readiness (24/7/365)
+• Rapid deployment and adaptive response capabilities
+• Team synchronization and unified command structure
+• Mission-critical focus with no compromise on quality
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,3 +40,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"THE ONLY EASY DAY WAS YESTERDAY" - SEAL Team Six Motto
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
