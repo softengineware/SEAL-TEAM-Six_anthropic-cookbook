@@ -10,7 +10,7 @@
 
 #### Core Notebook Transformations
 - [ ] Complete remaining `extended_thinking/ST6_extended_thinking_with_tool_use.ipynb`
-- [ ] Transform `tool_use/ST6_customer_service_agent.ipynb` - Critical for user interaction demos
+- [x] Transform `tool_use/ST6_customer_service_agent.ipynb` - Critical for user interaction demos (PARTIAL)
 - [ ] Transform `tool_use/ST6_memory_cookbook.ipynb` - Essential for persistence operations
 - [ ] Transform `multimodal/ST6_best_practices_for_vision.ipynb` - Key visual capabilities
 - [ ] Transform `skills/classification/ST6_guide.ipynb` - Core classification operations
