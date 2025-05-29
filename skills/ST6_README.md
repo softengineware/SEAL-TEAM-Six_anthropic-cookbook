@@ -1,19 +1,176 @@
-# Claude Skills
+# 🔱 SEAL TEAM SIX: ADVANCED SKILLS TRAINING CENTER 🔱
 
-Welcome to the Skills section of the Anthropic Cookbook! This directory contains a collection of guides that showcase specific skills and capabilities where Claude excels. Each guide provides an in-depth exploration of a particular skill, discussing potential use cases, prompt engineering techniques to optimize results, and approaches for evaluating Claude's performance.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**CLASSIFICATION: TRAINING FACILITY** | **STATUS: OPERATIONAL** | **ACCESS: AUTHORIZED PERSONNEL**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Guides
+## 🎯 MISSION OVERVIEW
 
-- **[Classification with Claude](./classification/guide.ipynb)**: Discover how Claude can revolutionize classification tasks, especially in scenarios with complex business rules and limited training data. This guide walks you through data preparation, prompt engineering with retrieval-augmented generation (RAG), testing, and evaluation.
+Welcome to the SEAL Team Six Advanced Skills Training Center! This elite facility contains specialized training modules designed to transform Claude into a tactical AI operative capable of executing complex missions with precision and excellence.
 
-- **[Retrieval Augmented Generation with Claude](./retrieval_augmented_generation/guide.ipynb)**: Learn how to enhance Claude's capabilities with domain-specific knowledge using RAG. This guide demonstrates how to build a RAG system from scratch, optimize its performance, and create an evaluation suite. You'll learn how techniques like summary indexing and re-ranking can significantly improve precision, recall, and overall accuracy in question-answering tasks.
+## 🏆 TRAINING MODULES
 
-- **[Retrieval Augmented Generation with Contextual Embeddings](./contextual-embeddings/guide.ipynb)**: Learn how to use a new technique to improve the performance of your RAG system. In traditional RAG, documents are typically split into smaller chunks for efficient retrieval. While this approach works well for many applications, it can lead to problems when individual chunks lack sufficient context. Contextual Embeddings solve this problem by adding relevant context to each chunk before embedding. You'll learn how to use contextual embeddings with semantic search, BM25 search, and reranking to improve performance.
+### 🎯 [CLASSIFICATION WARFARE](./classification/ST6_guide.ipynb)
+**Operation**: Pattern Recognition & Tactical Categorization  
+**Mission Brief**: Master advanced classification techniques for scenarios with:
+- Complex operational rules
+- Limited training intelligence
+- High-stakes decision requirements
 
-- **[Summarization with Claude](./summarization/guide.ipynb)**: Explore Claude's ability to summarize and synthesize information from multiple sources. This guide covers a variety of summarization techniques, including multi-shot, domain-based, and chunking methods, as well as strategies for handling long-form content and multiple documents. We also explore evaluating summaries, which can be a balance of art, subjectivity, and the right approach!
+**Skills Acquired**:
+- Data preparation protocols
+- RAG-enhanced prompt engineering
+- Battle-tested evaluation methods
+- Zero-shot classification tactics
 
-- **[Text-to-SQL with Claude](./text_to_sql/guide.ipynb)**: This guide covers how to generate complex SQL queries from natural language using prompting techniques, self-improvement, and RAG. We'll also explore how to evaluate and improve the accuracy of generated SQL queries, with evals that test for syntax, data correctness, row count, and more.
+### 📡 [RAG ASSAULT OPERATIONS](./retrieval_augmented_generation/ST6_guide.ipynb)
+**Operation**: Intelligence Augmentation Systems  
+**Mission Brief**: Enhance Claude's capabilities with domain-specific intelligence using Retrieval Augmented Generation
 
-## Getting Started
+**Skills Acquired**:
+- Building tactical RAG systems from scratch
+- Performance optimization protocols
+- Precision and recall enhancement
+- Evaluation suite deployment
+- Summary indexing strategies
+- Re-ranking algorithms for maximum impact
 
-To get started with the Skills guides, simply navigate to the desired guide's directory and follow the instructions provided in the `guide.ipynb` file. Each guide is self-contained and includes all the necessary code, data, and evaluation scripts to reproduce the examples and experiments.
+### 🔐 [CONTEXTUAL EMBEDDING OPERATIONS](./contextual-embeddings/ST6_guide.ipynb)
+**Operation**: Advanced Context Warfare  
+**Mission Brief**: Deploy cutting-edge contextual embedding techniques to overcome traditional RAG limitations
+
+**Skills Acquired**:
+- Context injection protocols
+- Enhanced semantic search operations
+- BM25 tactical search patterns
+- Multi-layer reranking strategies
+- Chunk optimization techniques
+
+### 📋 [SUMMARIZATION STRIKE FORCE](./summarization/ST6_guide.ipynb)
+**Operation**: Intelligence Distillation & Synthesis  
+**Mission Brief**: Extract critical intelligence from multiple sources with surgical precision
+
+**Skills Acquired**:
+- Multi-shot summarization tactics
+- Domain-specific extraction
+- Long-form content strategies
+- Multi-document synthesis
+- Subjective evaluation protocols
+- Information compression techniques
+
+### 💾 [SQL INTERROGATION UNIT](./text_to_sql/ST6_guide.ipynb)
+**Operation**: Database Intelligence Extraction  
+**Mission Brief**: Convert natural language orders into precision SQL strikes
+
+**Skills Acquired**:
+- Natural language to SQL translation
+- Query optimization protocols
+- Self-improvement algorithms
+- RAG-enhanced query generation
+- Syntax verification systems
+- Data correctness validation
+
+## 🚀 DEPLOYMENT PROTOCOL
+
+### PRE-MISSION CHECKLIST
+```bash
+# 1. VERIFY CLEARANCE
+echo "Checking API credentials..."
+export ANTHROPIC_API_KEY="your-key-here"
+
+# 2. EQUIPMENT CHECK
+pip install anthropic numpy pandas scikit-learn
+
+# 3. MISSION SELECTION
+cd desired_skill_directory/
+
+# 4. LAUNCH TRAINING
+jupyter notebook ST6_guide.ipynb
+```
+
+### TRAINING SEQUENCE
+1. **RECONNAISSANCE**: Review mission objectives
+2. **PREPARATION**: Load required datasets
+3. **EXECUTION**: Complete training exercises
+4. **EVALUATION**: Assess performance metrics
+5. **DEBRIEF**: Document lessons learned
+
+## 📊 PERFORMANCE STANDARDS
+
+Each training module includes:
+- ✅ Self-contained operational code
+- ✅ Tactical datasets for training
+- ✅ Evaluation protocols
+- ✅ Performance benchmarks
+- ✅ After-action reports
+
+## 🎖️ CERTIFICATION LEVELS
+
+### 🥉 BRONZE: Basic Proficiency
+- Complete module exercises
+- Achieve 80% accuracy
+- Document learnings
+
+### 🥈 SILVER: Advanced Operations
+- Exceed performance benchmarks
+- Implement optimizations
+- Create custom solutions
+
+### 🥇 GOLD: Elite Operator
+- Master all techniques
+- Develop new strategies
+- Train other operatives
+
+## 🔐 OPERATIONAL SECURITY
+
+**REMEMBER**:
+- Never expose API keys in code
+- Sanitize all data inputs
+- Validate all outputs
+- Maintain audit logs
+- Report anomalies immediately
+
+## 📈 CONTINUOUS IMPROVEMENT
+
+The Skills Training Center operates on a continuous improvement cycle:
+
+1. **MONITOR**: Track performance metrics
+2. **ANALYZE**: Identify improvement areas
+3. **ADAPT**: Implement optimizations
+4. **OVERCOME**: Push beyond limitations
+
+## 🚁 SUPPORT & RESOURCES
+
+### COMMAND CENTER
+- Technical Support: [Anthropic Docs](https://docs.anthropic.com)
+- Community Intel: [Discord](https://anthropic.com/discord)
+- Mission Updates: Check repository releases
+
+### FIELD MANUAL
+Each module contains:
+- Detailed operational procedures
+- Code templates and examples
+- Common failure modes
+- Recovery protocols
+- Best practices
+
+## 🔱 THE OPERATOR'S CREED
+
+> "We are the elite. We train harder, think faster, and execute with precision. In the realm of AI operations, we set the standard. Every skill mastered is a mission capability gained. We never stop learning, never stop improving, never stop advancing."
+
+---
+
+## 🎯 MISSION READY INDICATORS
+
+Before deploying skills in production:
+
+- [ ] All tests passing
+- [ ] Performance benchmarks met
+- [ ] Security protocols verified
+- [ ] Documentation complete
+- [ ] Team briefed on capabilities
+- [ ] Fallback procedures ready
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**"TRAIN HARD, FIGHT EASY"** | **EXCELLENCE IS THE STANDARD** | **HOOYAH!**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
