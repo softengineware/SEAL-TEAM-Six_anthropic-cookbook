@@ -12,7 +12,7 @@
 
 **AUTHORIZATION:** 
 - **Original Repository**: [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
-- **Enhanced By**: [SEAL Team Six - SoftEngineware Division](https://github.com/softengineware)
+- **Enhanced By**: [SEAL Team Six Division of SoftEngineWare](https://github.com/softengineware)
 - **Repository**: [SEAL-TEAM-Six_anthropic-cookbook](https://github.com/softengineware/SEAL-TEAM-Six_anthropic-cookbook)
 
 ## ⚡ CORE PRINCIPLES
